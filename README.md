@@ -30,7 +30,7 @@ An <a href="https://angular.io/" target="_blank">Angular</a> User Interface (UI)
  12/13/14      | 1.x+            | -           |             
  
 
-## Installation
+## Installationn
 
 To install FascinatiNG run the following command :
 
